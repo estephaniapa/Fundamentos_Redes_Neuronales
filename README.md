@@ -1,4 +1,19 @@
-# Propedeutico_Redes_Proyecto_Individual
+# Proyecto Individual de Redes Neuronales
+
+---
+Maestría en Ciencias de Datos
+
+Universidad de Sonora
+<br> <br>
+---
+
+Curso propedéutico: Álgebra lineal y optimización
+
+Profesor: Dr. Jesus Francisco Espinoza Fierro
+
+Autor: Estephania Pivac Alcaraz
+
+---
 
 En este proyecto de redes neuronales, se investigaron los fundamentos teóricos y se desarrolló un esquema matemático detallado para una red neuronal de alimentación directa (feedforward). El objetivo principal fue mejorar la eficiencia y precisión del proceso de admisión en programas de posgrado.
 
